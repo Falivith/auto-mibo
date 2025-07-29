@@ -1,5 +1,7 @@
 # Ignora a virtualenv
 venv/
+cam/
+
 
 # Arquivos temporários do Python
 __pycache__/
