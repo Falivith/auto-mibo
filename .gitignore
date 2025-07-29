@@ -1,0 +1,8 @@
+# Ignora a virtualenv
+venv/
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+*.log
